@@ -27,4 +27,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```
 
-## [Live Demo](https://fnyambati.github.io/react-redux-reddit/)
+## <a href="https://fnyambati.github.io/react-redux-reddit" target="_blank">Live Demo</a>
